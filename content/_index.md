@@ -1,6 +1,6 @@
 ---
 title: Wezalen
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/logo-wezalen-petit.png"
 description: Un petit site Web pour un grand début.
 
 ---
