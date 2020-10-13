@@ -7,14 +7,16 @@ title: Barba Boom
 disable_share: false
 
 ---
-J'ai réalisé ce travail pour un projet en cours d'anglais à l'ESADHaR. 
+J'ai réalisé ce travail pour un projet en cours d'anglais à l'ESADHaR.
 
-Le but était de concevoir un début d'identité pour un bonbon que nous avons pensé. 
+Le but était de concevoir un début d'identité pour un bonbon que nous avons pensé.
 
-J'ai donc commencé par penser le bonbon qui me donnerais le thème pour penser l'identité visuelle puis un packaging. 
+J'ai donc commencé par penser le bonbon qui me donnerais le thème pour penser l'identité visuelle puis un packaging.
 
-Les dessins ont été réalisé sur iPad Pro grâce à l'application ProCreate.  
+Les dessins ont été réalisé sur iPad Pro grâce à l'application ProCreate.
 
 ![](/images/barba-boom.jpg)
 
-![](/images/bonbon-emballe.jpg)![](/images/bonbon-barba-boom.jpg)
+![](/images/bonbon-emballe.jpg)
+
+![](/images/bonbon-barba-boom.jpg)
