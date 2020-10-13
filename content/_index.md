@@ -1,5 +1,5 @@
 ---
-title: site
+title: Wezalen
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 description: Un petit site Web pour un grand début.
 
