@@ -1,7 +1,7 @@
 ---
 date: 2017-04-13T11:15:58.000-04:00
 description: Illustration faite pour un projet de Workshop à l'ESADHaR
-featured_image: ''
+featured_image: "/images/texte-les-freres-sisters.jpg"
 tags: []
 title: Illustration de roman
 
