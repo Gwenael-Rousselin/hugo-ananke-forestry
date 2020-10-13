@@ -36,15 +36,21 @@ Juin 2014 - Baccalauréat Scientifique (sans mention) + option judo
 
     Compétences:
 
-_Langues:_ espagnol et anglais
+_Langues:_ 
 
-_Informatique:_ [Photoshop](https://www.adobe.com/fr/products/photoshop.html?promoid=PC1PQQ5T&mv=other), [InDesign](https://www.adobe.com/fr/products/indesign.html?promoid=PGRQQLFS&mv=other) et [Procreate](https://procreate.art/)
+espagnol et anglais.
 
-_Qualité:_ une grande capacité d’adaptation, une excellente rapidité
+_Informatique:_
 
-d’apprentissage, la curiosité, la créativité la ponctualité, l’amabilité et le sens
+[Photoshop](https://www.adobe.com/fr/products/photoshop.html?promoid=PC1PQQ5T&mv=other), [InDesign](https://www.adobe.com/fr/products/indesign.html?promoid=PGRQQLFS&mv=other) et [Procreate](https://procreate.art/).
 
-du contact
+_Qualité:_
+
+Une grande capacité d’adaptation, une excellente rapidité
+
+d’apprentissage, la curiosité, la créativité, la ponctualité, l’amabilité et le sens
+
+du contact.
 
     Centre d’intérêt:
 
