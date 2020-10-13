@@ -1,6 +1,6 @@
 ---
 title: 'A propos de moi '
-description: ''
+description: Vous trouverez ici toutes mes qualifications et mes expériences passées.
 featured_image: ''
 
 ---
