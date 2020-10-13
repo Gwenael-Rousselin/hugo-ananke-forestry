@@ -4,7 +4,7 @@ description: Vous trouverez ici toutes mes qualifications et mes expériences pa
 featured_image: ''
 
 ---
-**Expériences:**
+    Expériences:
 
 _2019 - Stagiaire pour_ [_Aude Bourgine_](http:/www.audebourgine.fr) _(artiste plasticienne) - Rouen_
 
@@ -26,15 +26,15 @@ Un total de 4 mois, répartis chaque été. J’étais conditionneur au secteur
 
 demandais aussi un travail d’équipe, étant deux par circuits sur 6 circuits.
 
-**Études:**
+    Études:
 
- 2020/2021 - [Normandie Web School](WWW.normandiewebschool.fr) - Bachelor Design Graphique
+2020/2021 - [Normandie Web School](WWW.normandiewebschool.fr) - Bachelor Design Graphique
 
 2017/2020 - [ESADHaR](https://esadhar.fr/fr) - 3 années aux beaux arts de Rouen
 
 Juin 2014 - Baccalauréat Scientifique (sans mention) + option judo
 
-**Compétences:**
+    Compétences:
 
 _Langues:_ espagnol et anglais
 
@@ -46,6 +46,12 @@ d’apprentissage, la curiosité, la créativité la ponctualité, l’amabilit�
 
 du contact
 
-**Centre d’intérêt:**
+    Centre d’intérêt:
 
-sport, art et design, dessin, cinema, airsoft, jeux vidéo et technologies.
+* sport
+*  art et design
+* dessin
+* cinéma
+* airsoft
+* jeux vidéo 
+* technologies
