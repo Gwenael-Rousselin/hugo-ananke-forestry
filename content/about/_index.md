@@ -1,7 +1,7 @@
 ---
 title: 'A propos de moi '
 description: Vous trouverez ici toutes mes qualifications et mes expériences passées.
-featured_image: "/images/img_1614.PNG"
+featured_image: "/images/logo-wezalen.svg"
 
 ---
 **Expériences:** 
