@@ -6,12 +6,12 @@ tags: []
 title: Illustration de roman
 
 ---
-J'ai réalisé ces illustrations sur ProCreate, une application de dessin sur iPad Pro. 
+J'ai réalisé ces illustrations sur ProCreate, une application de dessin sur iPad Pro.
 
-La demande était pour un Workshop Illustration organisé à l'ESADHaR. 
+La demande était pour un Workshop Illustration organisé à l'ESADHaR.
 
 Un boite d'édition fictive nous demandait de leur proposer de nouvelles illustrations pour deux romans, Les frères sisters et La guerre des mondes. ![](/images/illus-la-guerre-des-mondes.jpg)
 
 ![](/images/illus-les-freres-sisters2.jpg)
 
- ![](/images/illus-les-freres-sisters.jpg)
+![](/images/illus-les-freres-sisters.jpg)
